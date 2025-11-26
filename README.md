@@ -25,4 +25,4 @@ This repository serves as the central knowledge base for safety and pickleball g
 
 ## 🤝 Contributing
 
-We welcome contributions from all club members\! If you have a gear review, a safety tip, or a correction.
+We welcome contributions and especiallly from KPC members\! If you have a gear review, a safety tip, or a correction.
