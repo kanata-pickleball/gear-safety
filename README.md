@@ -35,8 +35,5 @@ We welcome contributions from all club members\! If you have a gear review, a sa
 ## 📧 Contact
 
 **Maintainer:** Louie Kwan
+
 **Club Location:** Kanata, Ontario
-
-### Next Step
-
-Would you like me to create a **YAML template** for an "Issue Form" so members can easily report damaged club equipment or safety hazards directly through the repo?
