@@ -1,4 +1,4 @@
-# How to Choose the Best Indoor Pickleball Shoes
+# How to Choose Indoor Pickleball Shoes
 
 ### Why This Post Matters
 We are seeing more **safety issues among Ottawa pickleball players during indoor games**. 
