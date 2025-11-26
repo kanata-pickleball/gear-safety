@@ -7,6 +7,10 @@ The main concern?
 
 **Dust and sand** on school gym floors. These surfaces are often not cleaned properly or on time, making them slippery and hazardous. This post aims to help players choose the right shoes to improve grip and reduce the risk of injuries in these conditions.
 
+
+**Warning: Avoid running shoes with high heels/foam stacks as they increase the risk of ankle rolls.**
+
+
 ---
 
 ## 1. Grip and Traction
