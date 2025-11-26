@@ -1,6 +1,6 @@
 # 🛡️ Pickleball Gear and Safety   
 
-**A community-driven repository for equipment safety & tips.**
+**A community-driven repository for gear & safety.**
 
 ## 📖 About
 
