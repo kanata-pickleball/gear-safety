@@ -48,7 +48,7 @@ Pickleball can be tough on shoes, especially around the toe box:
 
 ---
 
-# Why Indoor Basketball Shoes can be an option?
+### Indoor Basketball Shoes as an option?
 Surprisingly, indoor basketball shoes can be an excellent alternative for pickleball. Here’s why:
 - **Superior lateral support:** Basketball shoes are built for quick cuts and multidirectional movement—perfect for pickleball.
 - **Better grip:** Basketball shoes often have advanced traction patterns designed for hardwood courts, giving you excellent grip even on dusty surfaces.
