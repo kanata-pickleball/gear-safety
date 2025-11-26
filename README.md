@@ -1,6 +1,6 @@
 # 🛡️ Pickleball Gear and Safety   
 
-**A community-driven repository for equipment safety standards, recommendations, and maintenance tips for our club members in Kanata.**
+**A community-driven repository for equipment safety & tips.**
 
 ## 📖 About
 
