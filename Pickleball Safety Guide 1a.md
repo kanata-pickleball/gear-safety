@@ -42,3 +42,7 @@ Pickleball rallies can be long, and tournaments can last all day. Dehydration le
 
 ### The Bottom Line
 We all love the game because it’s fun. Taking these small safety precautions ensures you can keep having fun for years to come. Trim those nails, lace up the right shoes, and we’ll see you on the court!
+
+
+BR,
+KPC
