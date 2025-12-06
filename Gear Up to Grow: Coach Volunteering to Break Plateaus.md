@@ -25,3 +25,5 @@ After all, you’re still figuring out your own game! But Volunteering as a coac
 
 Research in sports psychology backs this up: studies on “deliberate practice” show that teaching others accelerates expertise. 
 
+Please reach out to kanatapickleballclub@gmail.com
+ if you, or any of your close friends with a 3.5+ rating, might be interested in volunteer coaching.
