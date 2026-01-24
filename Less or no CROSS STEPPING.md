@@ -1,4 +1,4 @@
-A Tip on Footwork, Balance and Staying Safe in Pickleball
+# A Tip on Footwork, Balance and Staying Safe in Pickleball
 
 ![NoCrossStepping](https://github.com/user-attachments/assets/12e01321-d1c8-4458-8aa4-73b568711f3d)
 
@@ -13,8 +13,10 @@ It might feel natural at first, but it can lead to a few problems on the court:
  * ⚠️ It’s risky during fast exchanges: In a quick volley rally at the net, being even slightly off-balance from a cross-step can cause you to pop the ball up or miss it entirely. It's a recipe for an unforced error and can even lead to a fall.
 ✅ The Better, Safer Alternative:
 Instead, try to use shuffle steps (quick side steps). By keeping your feet apart and your body low, you maintain a wide, stable base. 
+
 This keeps you balanced, centered, and ready to react instantly.
 For a fantastic and detailed guide on this topic, I highly recommend watching this video from 50+ Coach Tony Roig. 
+
 He’s a senior pro who breaks down safe and efficient movement, especially for players over 50. He covers why to avoid the cross-step [03:00] and t
 eaches safer alternatives like the "open the door" technique to cover lobs [07:37]. 
 
