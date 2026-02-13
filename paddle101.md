@@ -26,8 +26,8 @@ The thickness of the honeycomb core is your primary "Power vs. Control" lever.
 
 ---
 
-## 3. The Secret Sauce: Foam-Injected Perimeters
-The modern paddles now include specialized foam injected into the paddle.
+## 3. The Secret Sauce: Foam
+The modern paddles now include specialized foam into the paddle.
 
 ---
 
