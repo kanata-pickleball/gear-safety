@@ -2,7 +2,8 @@
 
 ![NoCrossStepping](https://github.com/user-attachments/assets/12e01321-d1c8-4458-8aa4-73b568711f3d)
 
-Disclaimer: I'm not a professional, just a fellow pickleball enthusiast! 
+Disclaimer: I'm not a professional, just a fellow pickleball enthusiast! Pickleball Coach (Certification Expected June 2026)
+
 I've spent effort working on my own balance and footwork, and I hope you don’t mind I am sharing some tips after watching a YouTube video.
 
 One of the biggest game-changers for me was learning to avoid the cross-step—that move where you cross one foot over the other to reach for a ball. 
